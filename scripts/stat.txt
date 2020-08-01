@@ -1,0 +1,24 @@
+===========================
+Statistics for training data
+============================
+
+joy => 779
+fear => 758
+shame => 761
+disgust => 762
+guilt => 770
+anger => 758
+sadness => 767
+
+===========================
+Statistics for testing data
+============================
+
+anger => 176
+shame => 166
+guilt => 156
+disgust => 173
+joy => 162
+sadness => 152
+fear => 164
+

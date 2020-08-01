@@ -7,8 +7,8 @@
 __This is the public accessible version of our work__
 
 ## Group Information
-- Shawon Ashraf
-- Christina Hitzl
+- [Shawon Ashraf](https://github.com/ShawonAshraf)
+- [Christina Hitzl](https://github.com/ChristinaHi96)
 
 ## Project information
 

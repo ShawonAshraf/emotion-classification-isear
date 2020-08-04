@@ -34,7 +34,13 @@ ISEAR - multi label dataset which can be availed from [SWISS CENTER FOR AFFECTIV
 
 ### Results from experiments
 
-
+| Methods                  | F-scores |
+|--------------------------|----------|
+| Naive Bayes              | 0.42     |
+| Lexicon without negation | 0.43     |
+| Lexicon with negation    | 0.44     |
+| Multi Layer Perceptron   | 0.34     |
+| CNN                      | 0.51     |
 
 
 ## Setting up env
